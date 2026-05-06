@@ -1,5 +1,11 @@
+# Hidden / personal config files (.claude/, .vscode/, .idea/, .DS_Store, etc.)
+.*
+
+# Re-include the dotfiles that DO belong in the repo
+!.gitignore
+!.gitattributes
+
 # OS
-.DS_Store
 Thumbs.db
 
 # KiCad lock/temp files

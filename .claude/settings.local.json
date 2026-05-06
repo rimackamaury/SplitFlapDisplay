@@ -1,7 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(git -C \"/c/Users/Joss Redfern/OneDrive - Made In The Cellar/Documents/SplitFlapDisplay\" status --short)"
-    ]
-  }
-}
